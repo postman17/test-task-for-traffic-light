@@ -1,4 +1,7 @@
 # test-task-for-traffic-light
+
+Не доделано, ваканисиб закрыли раньше
+
 Тестовое задание Middle Python разработчик
  https://docs.google.com/document/d/1KgpLJy1Uw9k5ei_zTw60ZwUk0UrKTQcSEz-qKti3vcc/edit
 
